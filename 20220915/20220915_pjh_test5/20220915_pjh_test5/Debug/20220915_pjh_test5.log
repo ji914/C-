@@ -1,0 +1,6 @@
+﻿  20220915_pjh_test5.cpp
+D:\C program\20220915\20220915_pjh_test5\20220915_pjh_test5\20220915_pjh_test5.cpp(11,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C program\20220915\20220915_pjh_test5\20220915_pjh_test5\20220915_pjh_test5.cpp(19,6): error C2371: 'num1': 재정의. 기본 형식이 다릅니다.
+D:\C program\20220915\20220915_pjh_test5\20220915_pjh_test5\20220915_pjh_test5.cpp(10): message : 'num1' 선언을 참조하십시오.
+D:\C program\20220915\20220915_pjh_test5\20220915_pjh_test5\20220915_pjh_test5.cpp(19,16): error C2374: 'num2': 재정의. 여러 번 초기화했습니다.
+D:\C program\20220915\20220915_pjh_test5\20220915_pjh_test5\20220915_pjh_test5.cpp(11): message : 'num2' 선언을 참조하십시오.
