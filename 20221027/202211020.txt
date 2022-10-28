@@ -1,0 +1,14 @@
+#include <stdlib.h>
+
+#define _USE_MATH_DEFINES
+#include <math.h>
+
+double RAD2DEG(double radian)
+{
+    return radian * 180.0 / M_PI;
+}
+
+double DEG2RAD(double degree)
+{
+    return degree / 180.0 * M_PI;
+}
