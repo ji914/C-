@@ -1,0 +1,6 @@
+﻿  20221117_pjh_test2.cpp
+D:\C program\20221117\20221117_pjh_test2\20221117_pjh_test2\20221117_pjh_test2.cpp(17,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C program\20221117\20221117_pjh_test2\20221117_pjh_test2\20221117_pjh_test2.cpp(22,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C program\20221117\20221117_pjh_test2\20221117_pjh_test2\20221117_pjh_test2.cpp(23,9): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\C program\20221117\20221117_pjh_test2\20221117_pjh_test2\20221117_pjh_test2.cpp(25,52): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20221117_pjh_test2.vcxproj -> D:\C program\20221117\20221117_pjh_test2\Debug\20221117_pjh_test2.exe
